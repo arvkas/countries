@@ -1,0 +1,21 @@
+{
+  "name": "countries-project-setup-react4",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^7.10.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  }
+}
